@@ -1,5 +1,5 @@
 {
-  "name": "@danyal/lotr-sdk",
+  "name": "@danyalasif/lotrsdk",
   "description": "LOTR SDK",
   "authors": "Danyal Asif",
   "version": "0.0.1",
@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/danyalasif/lotr-sdk/issues"
   },
-  "homepage": "https://github.com/danyalasif/lotr-sdk#readme"
+  "homepage": "https://github.com/danyalasif/lotr-sdk#readme",
+  "registry-url": "https://registry.npmjs.org/"
 }

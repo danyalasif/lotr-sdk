@@ -1,16 +1,15 @@
 {
-  "name": "sdk-test",
+  "name": "lotr-sdk",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "npm run clean && tsc && tsc --build tsconfig.es5.json",
     "clean": "rm -rf dist/lib",
     "test:watch": "jest --watchAll",
     "example": "tsc example/server.ts && node example/server.js"
   },
-  "author": "",
+  "author": "Danyal Asif",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.4.0",
