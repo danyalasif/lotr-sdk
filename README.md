@@ -43,3 +43,10 @@ e.g. `getMovies` and `getMovieById`returns:
   offset: number;
   page: number;
 ```
+
+## Running example
+
+- Clone this repo
+- `npm install`
+- Provide your `API_KEY` in `.env`
+- `npm run example`
