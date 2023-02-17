@@ -1,0 +1,29 @@
+{
+  "name": "@danyal/lotr-sdk",
+  "description": "LOTR SDK",
+  "authors": "Danyal Asif",
+  "version": "0.0.1",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danyalasif/lotr-sdk.git"
+  },
+  "dependencies": {},
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENCE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "typescript",
+    "SDK"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danyalasif/lotr-sdk/issues"
+  },
+  "homepage": "https://github.com/danyalasif/lotr-sdk#readme"
+}
