@@ -1,8 +1,8 @@
 {
-  "name": "@danyalasif/lotrsdk",
+  "name": "danyal-lotrsdk",
   "description": "LOTR SDK",
   "authors": "Danyal Asif",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/es5/index.js",
   "module": "lib/es6/index.js",
   "repository": {
