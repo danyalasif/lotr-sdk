@@ -5,7 +5,6 @@ export default class LOTRSDK implements ISdk {
   options: RequestInit = {};
 
   constructor(apiKey?: string) {
-    console.log({ apiKey });
     this.options = {
       headers: {
         Authorization: `Bearer ${apiKey}`,
